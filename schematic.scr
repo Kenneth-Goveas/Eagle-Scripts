@@ -1,0 +1,3 @@
+SCRIPT palette-schematic-symbol-device.scr;
+SCRIPT appearance-schematic-symbol-device.scr;
+SCRIPT visibility-schematic.scr;

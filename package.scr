@@ -1,0 +1,4 @@
+SCRIPT palette-board-package.scr;
+SCRIPT appearance-board-package.scr;
+SCRIPT visibility-board-package.scr;
+SCRIPT hotkeys-board-package.scr;

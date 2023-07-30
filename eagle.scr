@@ -1,0 +1,17 @@
+SCH:
+SCRIPT schematic.scr;
+
+BRD:
+SCRIPT board.scr;
+
+LBR:
+SCRIPT library.scr;
+
+SYM:
+SCRIPT symbol.scr;
+
+PAC:
+SCRIPT package.scr;
+
+DEV:
+SCRIPT device.scr;
